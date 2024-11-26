@@ -1,0 +1,25 @@
+.banner {
+    justify-content: space-between;
+    padding-inline: 20px;
+    margin-block: 10px;
+}
+
+.company-logo {
+    width: 140px;
+}
+
+.company-logo img {
+    width: 100%;
+}
+
+.access-btn {
+    gap: 18px;
+}
+
+.dark-mode {
+    font-size: 1.5rem;
+    border: 0;
+    background-color: white;
+    cursor: pointer;
+    color: #014a7a;
+}
